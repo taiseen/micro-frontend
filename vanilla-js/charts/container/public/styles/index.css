@@ -1,0 +1,17 @@
+.containerApp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    border: 1px solid black;
+    width: 1240px;
+    padding: 6px;
+}
+
+.containerApp>div {
+    border: 1px solid red;
+}
+
+.containerApp p {
+    text-align: center;
+}
