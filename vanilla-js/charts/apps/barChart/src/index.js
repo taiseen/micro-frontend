@@ -1,7 +1,7 @@
 import * as eCharts from 'echarts';
 
 // Initialize the eCharts instance based on the prepared dom
-const barChart = eCharts.init(document.getElementById('bar-chart'));
+const barChart = eCharts.init(document.getElementById('bar-chart-testing'));
 
 // Specify the configuration items and data for the chart
 const option = {
