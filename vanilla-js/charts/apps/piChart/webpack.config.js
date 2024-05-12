@@ -27,6 +27,7 @@ module.exports = {
             exposes: {
                 './PiChartIndex': './src/index',
             },
+            shared: ["echarts"],
         })
     ]
 }

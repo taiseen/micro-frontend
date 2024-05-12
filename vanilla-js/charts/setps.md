@@ -14,8 +14,8 @@
 - config -> webpack.config.js file
     - require('html-webpack-plugin')
     - use it inside --> module.exports = {... , plugins: [array...]}
-    
-- npm run start
+
+- npm start
 
 ## Module Federation - (MFD)
 - the process of loading separately complied app at runtime

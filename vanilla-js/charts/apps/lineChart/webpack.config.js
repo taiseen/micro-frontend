@@ -27,6 +27,7 @@ module.exports = {
             exposes: {
                 './LineChartIndex': './src/index',
             },
+            shared: ["echarts"],
         })
     ]
 }

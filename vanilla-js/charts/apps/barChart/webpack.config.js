@@ -27,6 +27,7 @@ module.exports = {
             exposes: {
                 './BarChartIndex': './src/index',
             },
+            shared: ["echarts"],
         })
     ]
 }
