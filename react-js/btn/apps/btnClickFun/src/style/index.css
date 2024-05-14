@@ -1,0 +1,17 @@
+.btnContainer {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.btnStyle {
+    background: #055491;
+    color: #fff;
+    border: 1px solid #1d1d1d;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
