@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    gap: 28px;
+    align-items: center;
+}
+
+.container>div {
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+.container p{
+    font-weight: bold;
+}

@@ -8,7 +8,7 @@
 ```
 cd vanilla-js/charts/container
 ```
-- npm start
+- yarn start
 
 #
 
